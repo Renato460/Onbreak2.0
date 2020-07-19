@@ -9,8 +9,8 @@ namespace OnBreak2._0
 {
     class ActividadEmpresa : Conexion
     {
-        int id = 0;
-        string Descripcion;
+        private int id = 0;
+        private string Descripcion;
 
         public int Id { get => id; set => id = value; }
         public string Descripcion1 { get => Descripcion; set => Descripcion = value; }

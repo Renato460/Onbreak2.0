@@ -139,7 +139,8 @@ namespace OnBreak2._0
                 return false;
             }
         }
-        public int prueba(string Proceso, string numero, string rutCliente, string modalidad, int tipoEvento)
+       
+        /*public int prueba(string Proceso, string numero, string rutCliente, string modalidad, int tipoEvento)
         {
             if (conexion(Proceso))
             {
@@ -159,7 +160,7 @@ namespace OnBreak2._0
                 return 0;
             }
             
-        }
+        }*/
 
         public ObservableCollection<Contratos> Read(string Proceso,string numero,string rutCliente, string modalidad, int tipoEvento )
         {

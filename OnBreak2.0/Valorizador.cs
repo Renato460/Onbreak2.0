@@ -8,7 +8,7 @@ namespace OnBreak2._0
 {
     class Valorizador
     {
-        Cliente cliente;
+        private Cliente cliente;
 
         public float CalcularValorEvento(string tipoEvento, string modalidadEvento,int asistentes,int _PersonalAdicional)
         {

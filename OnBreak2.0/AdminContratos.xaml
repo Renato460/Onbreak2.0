@@ -6,7 +6,7 @@
         xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
         xmlns:local="clr-namespace:OnBreak2._0"
         mc:Ignorable="d"
-        Title="AdminContratos" Height="450" Width="800">
+        Title="Onbreak: Administración de Contratos" Height="450" Width="800" Icon="assets/hat.png">
     <Grid>
         <Grid.Background>
             <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">

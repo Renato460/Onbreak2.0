@@ -17,8 +17,8 @@ namespace OnBreak2._0
         private string MailContacto;
         private string Direccion;
         private string Telefono;
-        string  ActividadEmpresa;
-        string TipoEmpresa;
+        private string ActividadEmpresa;
+        private string TipoEmpresa;
 
         public string RutCliente1 { get => RutCliente; set => RutCliente = value; }
         public string RazonSocial1 { get => RazonSocial; set => RazonSocial = value; }

@@ -8,8 +8,8 @@ namespace OnBreak2._0
 {
     class TipoEmpresa : Conexion
     {
-        int Id = 0;
-        string Descripcion;
+        private int Id = 0;
+        private string Descripcion;
 
         public int Id1 { get => Id; set => Id = value; }
         public string Descripcion1 { get => Descripcion; set => Descripcion = value; }
