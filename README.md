@@ -3,8 +3,3 @@
 #Proyecto semestral DuocUC "Analista programador".
 #Programa de escritorio control de clientes y contratos para empresa de eventos.
 
-#Integrantes
-
-#Alexis Gómez
-#Renato Lezano
-#Renato Reyes
